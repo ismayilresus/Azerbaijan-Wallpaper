@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "338379298240",
+    "project_id": "azerbaijan-wallpaper-2c959",
+    "storage_bucket": "azerbaijan-wallpaper-2c959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338379298240:android:77bdecea5f8a92147aa425",
+        "android_client_info": {
+          "package_name": "com.thecheckpoint.azerbaijanwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338379298240-0v6vodek2ucvv74qktu5ar4r4t6lems9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecheckpoint.azerbaijanwallpaper",
+            "certificate_hash": "e817d27c0fedef2efb4b05f01889825d28225b51"
+          }
+        },
+        {
+          "client_id": "338379298240-r3lonqgs9ibpu7l3vbbk2u2056sovmq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgltNQOw2jf8YsHo5O4V9YRNkZTXBX07Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338379298240-r3lonqgs9ibpu7l3vbbk2u2056sovmq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
