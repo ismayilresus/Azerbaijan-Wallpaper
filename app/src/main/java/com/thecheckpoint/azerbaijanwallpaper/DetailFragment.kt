@@ -1,6 +1,7 @@
 package com.thecheckpoint.azerbaijanwallpaper
 
 import android.annotation.SuppressLint
+import android.app.Fragment
 import android.app.WallpaperManager
 import android.content.Context
 import android.graphics.Bitmap
